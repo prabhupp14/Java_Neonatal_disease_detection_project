@@ -1,0 +1,19 @@
+Problem Statement
+
+Neonatal health complications are among the leading causes of infant mortality worldwide, especially in developing countries where access to advanced medical care and diagnostic tools is limited. The early stages of life are highly critical — even minor fluctuations in physiological parameters such as body temperature, heart rate, weight, and age can indicate serious underlying conditions that require immediate attention.
+
+However, in many healthcare settings, diagnosis of neonatal health risks still relies heavily on manual observation and subjective clinical judgment, which can lead to inconsistencies, delays, and potential misdiagnosis. The growing volume of neonatal data generated in hospitals and health centers remains underutilized, despite its potential to improve predictive accuracy and clinical decision-making.
+
+This creates a significant gap between data availability and actionable medical insights. Medical professionals often lack automated tools that can process patient data efficiently and provide reliable predictions to assist in early diagnosis and treatment planning.
+
+To address this challenge, this project proposes the development of a machine learning–based Neonatal Health Prediction System using Weka and Java. The system is designed to:
+
+Utilize neonatal health datasets containing key parameters such as age, weight, temperature, and heart rate.
+
+Train a supervised machine learning model to identify patterns associated with health outcomes.
+
+Predict the likely health status or risk level of a newborn based on the input data.
+
+Provide healthcare professionals with a decision-support tool that enhances accuracy, efficiency, and timely intervention.
+
+By integrating machine learning techniques into neonatal care, this project aims to reduce diagnostic uncertainty, assist medical practitioners in prioritizing high-risk cases, and ultimately contribute to improved neonatal survival rates and overall healthcare outcomes.
